@@ -6,8 +6,8 @@ public class Application {
 
         double maximum = sample.max(arr);
         
-        System.out.println(maximum);
-        
+         System.out.println(maximum);
+         
 
     }
 }
